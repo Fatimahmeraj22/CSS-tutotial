@@ -8,3 +8,20 @@ body {
  #headingOne{
     color: chocolate;
 }
+footer {
+    background-color: bisque;
+    color: whitesmoke;
+    text-align: center;
+}
+a {
+    font-size : 25px;
+}
+
+ #logo
+ {
+    margin-right: 200px;
+   
+}
+a {
+    margin-top:  200px;
+}
